@@ -1,4 +1,3 @@
-Ouestion no. #1
 leetcode no. 283 - Move zeroes
 
 Code:-
@@ -16,7 +15,9 @@ public:
     }
 };
 
-![Uploading Screenshot 2026-09-16 at 10.34.57 PM.png…]()
+<img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/6ae6ed77-2738-4a27-a400-0937dcff5ea4" />
+
+
 
 
 
