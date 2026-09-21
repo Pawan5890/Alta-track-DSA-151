@@ -42,3 +42,21 @@ public:
 
 
 <img width="1440" height="813" alt="Screenshot 2026-09-21 at 10 33 14 PM" src="https://github.com/user-attachments/assets/ab7cfe21-c838-4480-9c5e-d3d3420cc33b" />
+
+
+
+
+
+Question no. - #121
+leetcode no. - 50. Pow(x, n)
+
+code :-
+class Solution {
+public:
+    double myPow(double x, int n) {
+        return pow(x,n);
+    }
+};
+
+<img width="1440" height="815" alt="Screenshot 2026-09-21 at 10 38 34 PM" src="https://github.com/user-attachments/assets/18e61ad7-9221-4ccf-a6ac-c480e134f519" />
+
